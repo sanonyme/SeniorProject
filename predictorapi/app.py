@@ -65,7 +65,7 @@ def prediction():
 
         # JSON response of all above(prediction input, prediction output, time, date)
         json_out = {
-            "pred" : data,
+            "prediction_input" : data,
             "predicted_crop" : prediction[0],
             "time" : curr_time,
             "date" : dt,
