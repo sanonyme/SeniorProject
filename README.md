@@ -41,6 +41,7 @@ To further improve the performance of the model, soft voting ensembling was used
 
 # 🧠 Creating predictions
 1) Crop predictions can be made in 2 ways, the first is through a generic HTML interface(No designs were made as the purpose is to use this app as an API)
-![Alt text](1.png)
+
+![Alt text](C:\Users\PC\Desktop\1.png)
 
 2) The second way (The intended use), is through a JSON input through the /prediction endpoint
