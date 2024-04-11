@@ -11,6 +11,10 @@ pip install Flask
 ```
 pip install numpy
 ```
+```
+pip install from-root
+```
+
 > **_NOTE:_**  Use sci-kit learn 1.4.2 version
 
 ```
