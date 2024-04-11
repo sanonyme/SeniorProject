@@ -3,13 +3,14 @@ import pickle
 import numpy as np
 from datetime import date
 import time
-import sys
 import json
+from from_root import from_root
+with open(from_root('predictorapi/suggestions/suggestions.json'), 'r') as json_file:
+      json_data = json.load(json_file)
+      
+print(type(json_data))
 
-with open('../suggestions/suggestions.json', 'r') as f:
-  data = json.load(f)
 
-print(data)
 app = Flask(__name__)
 app.json.sort_keys = False
 
@@ -19,7 +20,6 @@ model = pickle.load(open('model.pkl', 'rb'))
 # Default HTML home page for model testing with form input
 @app.route("/")
 def Home():
-    print(f)
     return render_template("index.html")
 
 @app.route("/predict", methods = ["POST"])
