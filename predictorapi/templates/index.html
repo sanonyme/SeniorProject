@@ -4,10 +4,6 @@
 <head>
   <meta charset="UTF-8">
   <title>ML API</title>
-  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
-<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
-<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
-<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
   
 </head>
 
@@ -17,16 +13,15 @@
 
      <!-- Main Input For Receiving Query to our ML -->
     <form action="{{ url_for('predict')}}"method="post">
-    	<input type="text" name="nitrogen" placeholder="nitrogen" required="required" />
-        <input type="text" name="phosporus" placeholder="phosporus" required="required" />
-		<input type="text" name="potassium" placeholder="potassium" required="required" />
-		<input type="text" name="temp" placeholder="temp" required="required" />
-        <input type="text" name="humidity" placeholder="humidity" required="required" />
-		<input type="text" name="ph" placeholder="ph" required="required" />
-        <input type="text" name="rain" placeholder="rain" required="required" />
+    	<input type="text" name="nitrogen" placeholder="Nitrogen" required="required" />
+      <input type="text" name="phosporus" placeholder="Phosporus" required="required" />
+		  <input type="text" name="potassium" placeholder="Potassium" required="required" />
+		  <input type="text" name="temp" placeholder="Temp" required="required" />
+      <input type="text" name="humidity" placeholder="Humidity" required="required" />
+		  <input type="text" name="ph" placeholder="PH" required="required" />
+      <input type="text" name="rain" placeholder="Rain" required="required" />
 	
-
-        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+      <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
     </form>
 
    <br>
