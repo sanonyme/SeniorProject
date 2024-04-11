@@ -37,10 +37,10 @@ This project used 5 classification algorithms to achieve the desired predictions
 
 As a result of these algorithms an average predictions of __97%__ was achieved.
 
-To further improve the performance of the model, soft voting ensembling was used, which further increased the models performance with a 99% accuracy.
+To further improve the performance of the model, soft voting ensembling was used, which further increased the models performance with a __99%__ accuracy.
 
 # 🧠 Creating predictions
 1) Crop predictions can be made in 2 ways, the first is through a generic HTML interface(No designs were made as the purpose is to use this app as an API)
-![Alt text](image.png)
+![Alt text](1.png)
 
 2) The second way (The intended use), is through a JSON input through the /prediction endpoint
