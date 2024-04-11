@@ -10,7 +10,7 @@ app.json.sort_keys = False
 
 model = pickle.load(open('model.pkl', 'rb'))
 
-# Default HTML home page for model testing with form input
+# Default HTML home page for model testing with form inpu
 @app.route("/")
 def Home():
     return render_template("index.html")
