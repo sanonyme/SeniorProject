@@ -31,7 +31,7 @@ pip install scikit-learn==1.4.2
 This project used 5 classification algorithms to achieve the desired predictions, which are:
 - KNN
 - Decision tree
-- SVC(Linear, Poly, RBF)
+- SVC (Linear, Poly, RBF)
 - Random forest
 - XGBoost
 
@@ -40,7 +40,7 @@ As a result of these algorithms an average predictions of __97%__ was achieved.
 To further improve the performance of the model, soft voting ensembling was used, which further increased the models performance with a __99%__ accuracy.
 
 # 🧠 Creating predictions
-1) Crop predictions can be made in 2 ways, the first is through a generic HTML interface(No designs were made as the purpose is to use this app as an API)
+1) Crop predictions can be made in 2 ways, the first is through a generic HTML interface (No designs were made as the purpose is to use this app as an API)
 
 ![Alt text](C:\Users\PC\Desktop\1.png)
 
