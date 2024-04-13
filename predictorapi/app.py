@@ -8,7 +8,7 @@ from from_root import from_root
 with open(from_root('predictorapi/suggestions/suggestions.json'), 'r') as json_file:
       json_data = json.load(json_file)
       
-print(type(json_data))
+
 
 
 app = Flask(__name__)
@@ -69,13 +69,15 @@ def prediction():
 
         # Calling our model to make a prediction
         prediction = model.predict(pred_features)
+        sugg = (json_data['crops'][prediction[0]])
 
         # JSON response of all above(prediction input, prediction output, time, date)
         json_out = {
-            "prediction_input" : data,
             "predicted_crop" : prediction[0],
+            "suggestions" : sugg,
             "time" : curr_time,
             "date" : dt,
+            "prediction_input" : data
         }
         
         return jsonify(json_out)
