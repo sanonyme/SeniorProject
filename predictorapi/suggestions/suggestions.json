@@ -10,7 +10,7 @@
       "maize": {
         "description": "Maize, also known as corn, is a cereal grain that was first domesticated by indigenous peoples in southern Mexico.",
         "ideal_weather": "Warm temperatures, adequate sunlight, and well-drained soil.",
-        "best_season_for_planting": "Spring when soil temperature reaches 55-60°F.",
+        "best_season_for_planting": "Spring when soil temperature reaches 55-60Â°F.",
         "link": "https://en.wikipedia.org/wiki/Maize",
         "img_link" : "https://images.pexels.com/photos/6316517/pexels-photo-6316517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       },
@@ -19,141 +19,140 @@
         "ideal_weather": "Moderate temperatures and well-drained soil.",
         "best_season_for_planting": "Spring or early summer.",
         "link": "https://en.wikipedia.org/wiki/Chickpea",
-        "img_link" : ""
+        "img_link" : "https://www.pexels.com/photo/soybeans-in-sack-3735181/"
       },
       "kidneybeans": {
         "description": "Kidney beans are a variety of the common bean (Phaseolus vulgaris), a legume native to Central America and Mexico.",
         "ideal_weather": "Warm temperatures and well-drained soil.",
         "best_season_for_planting": "Spring after the last frost.",
         "link": "https://en.wikipedia.org/wiki/Kidney_bean",
-        "img_link" : ""
+        "img_link" : "https://www.pexels.com/photo/overhead-shot-of-kidney-beans-6316671/"
       },
       "pigeonpeas": {
         "description": "Pigeon peas are a perennial legume from the family Fabaceae. They are drought-resistant and can be grown in semi-arid regions.",
         "link": "https://en.wikipedia.org/wiki/Pigeon_pea",
-        "img_link" : "",
+        "img_link" : "https://pin.it/3ZevSh27A",
         "ideal_weather": "Warm and semi-arid climates.",
-        "best_season_for_planting": "Spring when soil temperature reaches 70°F."
+        "best_season_for_planting": "Spring when soil temperature reaches 70Â°F."
       },
       "mothbeans": {
         "description": "Moth beans, also known as matki, Turkish gram, or dew bean, are a drought-resistant legume grown mainly in arid and semi-arid regions.",
         "link": "https://en.wikipedia.org/wiki/Moth_bean",
-        "img_link" : "",
+        "img_link" : "https://www.istockphoto.com/photo/full-frame-shot-of-turkish-gram-grains-forming-texture-gm1310610629-399957496?utm_campaign=srp_photos_noresults&utm_content=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fmothbeans%2F&utm_medium=affiliate&utm_source=pexels&utm_term=mothbeans",
         "ideal_weather": "Warm temperatures and well-drained sandy loam soil.",
-        "best_season_for_planting": "Spring when soil temperature reaches 70°F."
+        "best_season_for_planting": "Spring when soil temperature reaches 70Â°F."
       },
       "mungbean": {
         "description": "Mung beans, also known as green gram, are a type of legume widely cultivated in Asia.",
         "link": "https://en.wikipedia.org/wiki/Mung_bean",
-        "img_link" : "",
+        "img_link" : "https://www.pexels.com/photo/mung-beans-on-wooden-spoon-7420817/",
         "ideal_weather": "Warm temperatures and well-drained soil.",
         "best_season_for_planting": "Spring or early summer."
       },
       "blackgram": {
         "description": "Black gram, also known as urad dal, is a type of bean grown mainly in South Asia.",
         "link": "https://en.wikipedia.org/wiki/Black_gram",
-        "img_link" : "",
+        "img_link" : "https://www.istockphoto.com/photo/black-chick-pea-or-kala-or-brown-chana-gm1250939341-364922659?utm_campaign=srp_photos_noresults&utm_content=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fblackgram%2F&utm_medium=affiliate&utm_source=pexels&utm_term=blackgram",
         "ideal_weather": "Warm temperatures and well-drained soil.",
         "best_season_for_planting": "Spring or early summer."
       },
       "lentil": {
         "description": "Lentils are edible pulses or seeds that belong to the legume family. They are a rich source of protein and are cultivated in many countries around the world.",
         "link": "https://en.wikipedia.org/wiki/Lentil",
-        "img_link" : "",
+        "img_link" : "https://www.pexels.com/photo/close-up-shot-of-lentils-6086414/",
         "ideal_weather": "Cool temperatures and well-drained soil.",
         "best_season_for_planting": "Spring or early summer."
       },
       "pomegranate": {
         "description": "Pomegranate is a fruit-bearing deciduous shrub or small tree in the family Lythraceae.",
         "link": "https://en.wikipedia.org/wiki/Pomegranate",
-        "img_link" : "",
+        "img_link" : "https://www.pexels.com/photo/bunch-of-pomegranates-2996250/",
         "ideal_weather": "Semi-arid to arid climates with mild winters.",
         "best_season_for_planting": "Spring or fall."
       },
       "banana": {
         "description": "Banana is a tropical fruit that grows on large herbaceous plants of the genus Musa.",
         "link": "https://en.wikipedia.org/wiki/Banana",
-        "img_link" : "",
+        "img_link" : "https://www.pexels.com/photo/banana-tree-802783/",
         "ideal_weather": "Warm temperatures and high humidity.",
         "best_season_for_planting": "Spring or early summer."
       },
       "mango": {
         "description": "Mango is a tropical fruit that is native to South Asia but is now grown in many tropical and subtropical regions around the world.",
         "link": "https://en.wikipedia.org/wiki/Mango",
-        "img_link" : "",
+        "img_link" : "https://www.pexels.com/photo/green-mango-fruits-hanging-on-tree-2667738/",
         "ideal_weather": "Warm temperatures and well-drained soil.",
         "best_season_for_planting": "Spring or early summer."
       },
       "grapes": {
         "description": "Grapes are fruiting berries of the deciduous woody vines of the botanical genus Vitis.",
         "link": "https://en.wikipedia.org/wiki/Grape",
-        "img_link" : "",
+        "img_link" : "https://www.pexels.com/photo/grape-fruits-708777/",
         "ideal_weather": "Warm, dry climate with moderate humidity.",
         "best_season_for_planting": "Spring after the last frost."
       },
       "watermelon": {
         "description": "Watermelon is a scrambling and trailing vine in the flowering plant family Cucurbitaceae.",
         "link": "https://en.wikipedia.org/wiki/Watermelon",
-        "img_link" : "",
+        "img_link" : "https://www.pexels.com/photo/green-piled-watermelon-59830/",
         "ideal_weather": "Warm temperatures and ample sunlight.",
         "best_season_for_planting": "Late spring or early summer."
       },
       "muskmelon": {
         "description": "Muskmelon, also known as cantaloupe or sweet melon, is a species of melon that belongs to the cucumber family.",
         "link": "https://en.wikipedia.org/wiki/Cantaloupe",
-        "img_link" : "",
+        "img_link" : "https://www.pexels.com/photo/top-view-of-a-sliced-fruit-7890202/",
         "ideal_weather": "Warm temperatures and ample sunlight.",
         "best_season_for_planting": "Late spring or early summer."
       },
       "apple": {
         "description": "Apple is the pomaceous fruit of the apple tree, species Malus domestica in the rose family Rosaceae.",
         "link": "https://en.wikipedia.org/wiki/Apple",
-        "img_link" : "",
+        "img_link" : "https://www.pexels.com/photo/red-apples-on-tree-574919/",
         "ideal_weather": "Cool to cold climates with a chilling period.",
         "best_season_for_planting": "Late winter to early spring."
       },
       "orange": {
         "description": "Orange is a citrus fruit that is cultivated in tropical and subtropical regions around the world.",
         "link": "https://en.wikipedia.org/wiki/Orange_(fruit)",
-        "img_link" : "",
+        "img_link" : "https://www.pexels.com/photo/photo-of-pile-of-oranges-2294477/",
         "ideal_weather": "Warm temperatures and well-drained soil.",
         "best_season_for_planting": "Spring."
       },
       "papaya": {
         "description": "Papaya is a tropical fruit that is native to the Americas but is now cultivated in many tropical and subtropical regions worldwide.",
         "link": "https://en.wikipedia.org/wiki/Papaya",
-        "img_link" : "",
+        "img_link" : "https://www.pexels.com/photo/halved-ripe-orange-papaya-on-blue-background-5946066/",
         "ideal_weather": "Warm temperatures and well-drained soil.",
         "best_season_for_planting": "Spring or early summer."
       },
       "coconut": {
         "description": "Coconut is a fruit of the coconut palm, Cocos nucifera. It is used for its water, milk, oil, and tasty flesh.",
         "link": "https://en.wikipedia.org/wiki/Coconut",
-        "img_link" : "",
+        "img_link" : "https://www.pexels.com/photo/close-up-photo-of-coconut-1652000/",
         "ideal_weather": "Warm, tropical climate with well-distributed rainfall.",
         "best_season_for_planting": "Year-round in tropical regions."
       },
       "cotton": {
         "description": "Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium.",
         "link": "https://en.wikipedia.org/wiki/Cotton",
-        "img_link" : "",
+        "img_link" : "https://www.pexels.com/photo/cotton-flower-3158017/",
         "ideal_weather": "Warm temperatures, plenty of sunshine, and moderate rainfall.",
         "best_season_for_planting": "Spring after the last frost."
       },
       "jute": {
         "description": "Jute is a long, soft, shiny bast fiber that can be spun into coarse, strong threads. It is produced from plants in the genus Corchorus.",
         "link": "https://en.wikipedia.org/wiki/Jute",
-        "img_link" : "",
+        "img_link" : "https://www.istockphoto.com/photo/green-jute-plantation-field-raw-jute-plant-texture-background-gm1411013995-461000253",
         "ideal_weather": "Warm and wet climate with well-drained soil.",
         "best_season_for_planting": "Spring or early summer."
       },
       "coffee": {
         "description": "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species.",
         "link": "https://en.wikipedia.org/wiki/Coffee",
-        "img_link" : "",
+        "img_link" : "https://www.pexels.com/photo/black-coffee-fruit-picked-during-daytime-92354/",
         "ideal_weather": "Subtropical climates with well-distributed rainfall.",
         "best_season_for_planting": "Spring or early summer."
       }
     }
 }
-  
