@@ -24,6 +24,10 @@ pip install -U scikit-learn
 ```
 pip install scikit-learn==1.4.2
 ```
+3) Inside the predictorapi directory, run the following command to be able to make predictions through HTML or a REST API
+```
+python app.py
+```
 
 
 ## 🔧 Tools used
